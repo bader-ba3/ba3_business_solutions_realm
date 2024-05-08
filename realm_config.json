@@ -1,0 +1,7 @@
+{
+    "app_id": "ba3_business_solutions-ecevvce",
+    "config_version": 20210101,
+    "name": "ba3_business_solutions",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL"
+}
